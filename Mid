@@ -7,7 +7,16 @@
     {
       "id": "1",
       "name": "FC Barcelona",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/800px-FC_Barcelona_%28crest%29.svg.png",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+      "description": "A Spanish football club based in Barcelona, Catalonia, founded in 1899.",
+      "FoundYear": 1899,
+      "website": "https://www.fcbarcelona.com"
+    },
+    {
+      "id": "2",
+      "name": "Real Madrid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "description": "A professional football club based in Madrid, Spain, founded in 1902.",
       "FoundYear": 1902,
       "website": "https://www.realmadrid.com"
     },
