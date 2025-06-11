@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Barcelona",
+    "image": "barcelona_logo",
+    "description": "Barcelona is a Spanish football club based in Barcelona, Catalonia, Spain."
+  },
+  {
+    "name": "Real Madrid",
+    "image": "realmadrid_logo",
+    "description": "Real Madrid is a professional football club based in Madrid, Spain."
+  },
+  {
+    "name": "Manchester United",
+    "image": "manchester_logo",
+    "description": "Manchester United is one of the most famous football clubs from England."
+  }
+]
