@@ -1,17 +1,128 @@
-[
-  {
-    "name": "Barcelona",
-    "image": "barcelona_logo",
-    "description": "Barcelona is a Spanish football club based in Barcelona, Catalonia, Spain."
-  },
-  {
-    "name": "Real Madrid",
-    "image": "realmadrid_logo",
-    "description": "Real Madrid is a professional football club based in Madrid, Spain."
-  },
-  {
-    "name": "Manchester United",
-    "image": "manchester_logo",
-    "description": "Manchester United is one of the most famous football clubs from England."
-  }
-]
+{
+  "page": 1,
+  "per_page": 15,
+  "total": 15,
+  "total_pages": 1,
+  "data": [
+    {
+      "id": "1",
+      "name": "FC Barcelona",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+      "description": "A Spanish football club based in Barcelona, Catalonia, founded in 1899.",
+      "FoundYear": 1899,
+      "website": "https://www.fcbarcelona.com"
+    },
+    {
+      "id": "2",
+      "name": "Real Madrid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "description": "A professional football club based in Madrid, Spain, founded in 1902.",
+      "FoundYear": 1902,
+      "website": "https://www.realmadrid.com"
+    },
+    {
+      "id": "3",
+      "name": "Manchester United",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+      "description": "An English football club based in Manchester, founded in 1878.",
+      "FoundYear": 1878,
+      "website": "https://www.manutd.com"
+    },
+    {
+      "id": "4",
+      "name": "Liverpool FC",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "description": "An English professional football club based in Liverpool, founded in 1892.",
+      "FoundYear": 1892,
+      "website": "https://www.liverpoolfc.com"
+    },
+    {
+      "id": "5",
+      "name": "Bayern Munich",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282017%29.svg",
+      "description": "A German football club based in Munich, founded in 1900.",
+      "FoundYear": 1900,
+      "website": "https://fcbayern.com"
+    },
+    {
+      "id": "6",
+      "name": "Chelsea FC",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+      "description": "An English football club based in London, founded in 1905.",
+      "FoundYear": 1905,
+      "website": "https://www.chelseafc.com"
+    },
+    {
+      "id": "7",
+      "name": "Arsenal FC",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+      "description": "An English football club based in London, founded in 1886.",
+      "FoundYear": 1886,
+      "website": "https://www.arsenal.com"
+    },
+    {
+      "id": "8",
+      "name": "Juventus FC",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/15/Juventus_FC_2017_logo.svg",
+      "description": "An Italian football club based in Turin, founded in 1897.",
+      "FoundYear": 1897,
+      "website": "https://www.juventus.com"
+    },
+    {
+      "id": "9",
+      "name": "Paris Saint-Germain",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
+      "description": "A French football club based in Paris, founded in 1970.",
+      "FoundYear": 1970,
+      "website": "https://www.psg.fr"
+    },
+    {
+      "id": "10",
+      "name": "AC Milan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg",
+      "description": "An Italian football club based in Milan, founded in 1899.",
+      "FoundYear": 1899,
+      "website": "https://www.acmilan.com"
+    },
+    {
+      "id": "11",
+      "name": "Inter Milan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
+      "description": "An Italian football club based in Milan, founded in 1908.",
+      "FoundYear": 1908,
+      "website": "https://www.inter.it"
+    },
+    {
+      "id": "12",
+      "name": "Borussia Dortmund",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Borussia_Dortmund_logo.svg",
+      "description": "A German football club based in Dortmund, founded in 1909.",
+      "FoundYear": 1909,
+      "website": "https://www.bvb.de"
+    },
+    {
+      "id": "13",
+      "name": "Tottenham Hotspur",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
+      "description": "An English football club based in London, founded in 1882.",
+      "FoundYear": 1882,
+      "website": "https://www.tottenhamhotspur.com"
+    },
+    {
+      "id": "14",
+      "name": "Ajax",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/79/Ajax_Amsterdam.svg",
+      "description": "A Dutch football club based in Amsterdam, founded in 1900.",
+      "FoundYear": 1900,
+      "website": "https://www.ajax.nl"
+    },
+    {
+      "id": "15",
+      "name": "Manchester City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "description": "An English football club based in Manchester, founded in 1880.",
+      "FoundYear": 1880,
+      "website": "https://www.mancity.com"
+    }
+  ]
+}
